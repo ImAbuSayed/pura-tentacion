@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pura-tentacion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Pura tentación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pura-tentacion/) |
+| **Get License** | [Obtain a Music License for Pura tentación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pura-tentacion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> You got me locked on every move you make
+> This kind of fever is impossible to fake
+> I feel the rhythm pulling me to your side
+> We catching feelings on this midnight ride
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
