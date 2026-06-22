@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pura tentación
+
+This log tracks the cryptographic history and versioning for the song **Pura tentación** (pura-tentacion).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T22:28:05.420830 | `v1` | `8d5c76957029b606699a6bbba6493bbfb506a224d47be9ea8a14e71e92c75c0e` | `1d9711521fd926c36d67a2d1b2f7c8541a2b8060d725d202a14220f67b644d18` | `2026-06-22_pura-tentacion-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pura-tentacion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Pura tentación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pura-tentacion/) |
+| **Get License** | [Request Licensing for Pura tentación](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pura-tentacion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `8d5c76957029b606699a6bbba6493bbfb506a224d47be9ea8a14e71e92c75c0e` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
